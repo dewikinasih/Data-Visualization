@@ -14,7 +14,7 @@ Since i love to watch hollywood's movie, i want to know what kind of stories wit
 - The dataset contains title, genre, studio, profitability, and ratings for movies released 2007-2012
   - There are still missing values in some variables. Thus, i tried to solve this problem using Rstudio ()
 - With this dashboard, i got the insightful information about The highest rating from viewers or the highest profitability of the genre,studio, and title in the certain period of time
--
+
 **Link Dashboard :**
 https://public.tableau.com/views/HollywoodsMostProfitableStories_16614192416450/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
@@ -26,7 +26,7 @@ https://public.tableau.com/views/HollywoodsMostProfitableStories_16614192416450/
 https://public.tableau.com/views/MillennialsvsBabyBoomersEmployment/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 # Monkeypox Cases Report
-I got the dataset from kaggle . The information within the dataset is about daily updated cases of monkeypox across the world (Until 26 August 2022)
+I got the dataset from [Kaggle](https://www.kaggle.com/datasets/deepcontractor/monkeypox-dataset-daily-updated). The information within the dataset is about daily updated cases of monkeypox across the world (Until 26 August 2022)
 - The dataset has more than 50.000 rows and 36 column, but found that this dataset still have some missing values and unuseful variable (especially for visualization purposes). Therefore, i solve those problem with Rstudio ()
 - The important information of the dataset includes in the dashboard such as the growth of confirmed case, the infected country, etc
 
