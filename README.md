@@ -11,7 +11,7 @@ I start my visualization projects with sample dataset provided by tableau
 # Hollywood's Most Profitable Stories
 Since i love to watch hollywood's movie, i want to know what kind of stories with the highest profitability. Luckily, i found the dataset in tableau sample dataset (again) and i create the dashboard without any further do
 - The dataset contains title, genre, studio, profitability, and ratings for movies released 2007-2012
-  - There are still missing values in some variables. Thus, i tried to solve this problem using Rstudio ()
+  - There are still missing values in some variables. Thus, i tried to solve this problem using Rstudio [Tap to see the code](https://github.com/dewikinasih/Data-Visualization-Portfolio/blob/main/celaning%20monkeypox.R)
 - With this dashboard, i got the insightful information about The highest rating from viewers or the highest profitability of the genre,studio, and title in the certain period of time
 
 [**Dashboard 2**](https://public.tableau.com/views/HollywoodsMostProfitableStories_16614192416450/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
