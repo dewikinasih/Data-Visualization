@@ -31,6 +31,11 @@ I got the dataset from [Kaggle](https://www.kaggle.com/datasets/deepcontractor/m
 
 # COVID-19 Vaccination
 The data has been taken from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations) especially 'vaccinations.csv' and 'locations.csv' file. Of course i cleaned the data before visualizing, i have selected the data from March till Seprtmber this year to reflect the world's vaccination progress in the last 7 months ago.
-
 The dashboard give us some interesting insights such as :
-- 
+- AstraZeneca and Pfizer are the most widely available vaccinations in the world
+- Afganisthan, Iraq, and Iran have the greatest variety of Vaccinations available (10 types)
+- The US, China, and India account for a whopping more than 70% of the Total Vaccinations administered in the world to date
+- The daily vaccinations administered worldwide have dropped due to a worldwide shortage of Vaccinations
+- In general, for all regions, the proportion of people fully vaccinated is higher than people who just vaccinated once
+
+[**Dashboard 5**](https://public.tableau.com/app/profile/dewi.kinasih/viz/COVID-19WorldVaccination_16647298047050/Dashboard1)
