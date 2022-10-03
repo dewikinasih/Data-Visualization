@@ -28,3 +28,9 @@ I got the dataset from [Kaggle](https://www.kaggle.com/datasets/deepcontractor/m
 - The important information of the dataset includes in the dashboard such as the growth of confirmed case, the infected country, etc
 
 [**Dashboard 4**](https://public.tableau.com/views/MonkeypoxCasesReport/MonkeypoxCasesReport?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+# COVID-19 Vaccination
+The data has been taken from [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations) especially 'vaccinations.csv' and 'locations.csv' file. Of course i cleaned the data before visualizing, i have selected the data from March till Seprtmber this year to reflect the world's vaccination progress in the last 7 months ago.
+
+The dashboard give us some interesting insights such as :
+- 
