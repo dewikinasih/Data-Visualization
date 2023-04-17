@@ -1,6 +1,8 @@
 # Data-Visualization-Portfolio
 This repository is for the visualization projects i've done for self-learning and hobby purposes. Mainly presented in tableau projects
 
+![image](https://github.com/dewikinasih/Data-Visualization/blob/07c3ecd44ae7e4251f97b66a93f543922d638fe5/Dashboard%201.png)
+
 # Superstore Dashboard
 I start my visualization projects with sample dataset provided by tableau
 - The dataset contains information about products,sales, and profits within fictitious company
