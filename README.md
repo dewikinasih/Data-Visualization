@@ -1,5 +1,6 @@
 # Data Visualization On Tableau
 This repository is for the visualization projects i've done for self-learning and hobby purposes. Mainly presented in tableau projects
+
 [My Tableau Profile](https://public.tableau.com/app/profile/dewi.kinasih)
 
 # Dashboard of Health Facilities and Services Profile in West Java
@@ -18,6 +19,8 @@ I have summarize the key insight, those are :
 - The **correlation** between **number of health facilities** and number of people having **health guarantee** show **positive linear** pattern with a correlation **coefficient of 0.83**. This means that the relationship between both variables is **very strong**. And can be interpretes as if a region has the **high number of health facilities** then it also has the **high number of people having health guarantee**, and vice versa.
 
 [**Dashboard 6**](https://public.tableau.com/views/westjava/WestJava?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[Read Article Here](https://dewikinasih.medium.com/dahboard-profil-fasilitas-dan-pelayanan-kesehatan-provinsi-jawa-barat-82a41161d9b2)
 
 # COVID-19 Vaccination
 ![image](https://github.com/dewikinasih/Data-Visualization/blob/07c3ecd44ae7e4251f97b66a93f543922d638fe5/Dashboard%201.png)
